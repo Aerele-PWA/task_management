@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/assets/task_management/pwa/sw.js', { scope: '/assets/task_management/pwa/' })})}

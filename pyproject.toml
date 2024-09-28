@@ -1,5 +1,5 @@
 [project]
-name = "pwa_build"
+name = "task_management"
 authors = [
     { name = "Aerele Technologies", email = "support@aerele.in"}
 ]
